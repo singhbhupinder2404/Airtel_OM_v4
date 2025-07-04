@@ -1,0 +1,7 @@
+            JS OPERATORS
+Arithmatic OPERATORS    + - * /%
+Relational OPERATORS    <>+=
+Logical OPERATORS       && II
+Equality OPERATORS      == === !=
+Ternary OPERATORS       ?
+increment/decrement OPERATORS   

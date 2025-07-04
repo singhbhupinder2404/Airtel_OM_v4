@@ -1,0 +1,3 @@
+instance(self)
+class method (cls)
+static method 
