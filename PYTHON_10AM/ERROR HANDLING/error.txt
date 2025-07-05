@@ -1,0 +1,16 @@
+FOR ERROR HANDLING IN PYTHON, SINGLE METHOD ONLY
+
+try
+    pass
+
+except
+    pass
+
+finally
+    pass
+
+
+
+
+
+
