@@ -1,5 +1,5 @@
 function display(){
-    alert('GM')
-    console.log('GM')
+    alert('This is not a valid command')
+    console.log('Thsi is not a valid command')
 }
 display()
