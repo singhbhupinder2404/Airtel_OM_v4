@@ -1,0 +1,20 @@
+class
+    Array
+    Length
+    push
+    pop 
+    shift
+    unshift
+    reverse
+    index of
+
+ES6
+    for each
+    map
+    filter
+    reduce
+    find
+
+
+Assignments for 16 JUl
+    how to remove duplicates from given array?

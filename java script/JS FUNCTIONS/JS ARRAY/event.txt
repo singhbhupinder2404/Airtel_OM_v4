@@ -1,0 +1,7 @@
+                    Event
+Mouse Event             FormEvent
+ommouseover             onfocus
+onmouseout              onblur
+onmousemove             onkey pressup/down
+onclick                 
+ondblclick
