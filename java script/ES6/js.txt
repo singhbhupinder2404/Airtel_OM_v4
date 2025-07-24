@@ -1,0 +1,13 @@
+let, constructor $ {}
+class ()=>{}
+
+
+[]for each
+map
+find
+filter\
+reduce
+tripple op
+
+
+assignment -- spend sometine on fetch mode
