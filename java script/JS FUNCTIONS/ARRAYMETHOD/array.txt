@@ -1,0 +1,6 @@
+spread
+extract and copy
+
+create new array/object
+merge array/object
+extending array elements/object properties

@@ -11,3 +11,5 @@ tripple op
 
 
 assignment -- spend sometine on fetch mode
+MAP method - when passing input and expecting some output
+FOR EACH method - when passing input and simplyh consuming it
